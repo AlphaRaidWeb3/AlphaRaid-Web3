@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>AlphaRaid Web3 – Crypto Growth Agency</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, Helvetica, sans-serif;
+      background: #0b0f1a;
+      color: #ffffff;
+      line-height: 1.6;
+    }
+    header {
+      background: radial-gradient(circle at top, #1b2cff, #0b0f1a 60%);
+      text-align: center;
+      padding: 80px 20px;
+    }
+    header h1 {
+      font-size: 3rem;
+      margin-bottom: 10px;
+      letter-spacing: 2px;
+    }
+    header p {
+      font-size: 1.2rem;
+      color: #cfd6ff;
+      max-width: 700px;
+      margin: auto;
+    }
+    .btn {
+      display: inline-block;
+      margin-top: 30px;
+      padding: 14px 32px;
+      background: #1b2cff;
+      color: #fff;
+      text-decoration: none;
+      border-radius: 30px;
+      font-weight: bold;
+    }
+    section {
+      padding: 70px 20px;
+      max-width: 1100px;
+      margin: auto;
+    }
+    h2 {
+      text-align: center;
+      font-size: 2.2rem;
+      margin-bottom: 50px;
+    }
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: 30px;
+    }
+    .card {
+      background: #12162a;
+      padding: 30px;
+      border-radius: 16px;
+      box-shadow: 0 0 20px rgba(27,44,255,0.15);
+    }
+    .card h3 {
+      margin-top: 0;
+      color: #6f7dff;
+    }
+    .process {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 20px;
+      justify-content: center;
+    }
+    .step {
+      background: #12162a;
+      padding: 25px;
+      border-radius: 14px;
+      width: 220px;
+      text-align: center;
+    }
+    footer {
+      background: #080b14;
+      text-align: center;
+      padding: 40px 20px;
+      font-size: 0.9rem;
+      color: #9aa3ff;
+    }
+    footer a {
+      color: #6f7dff;
+      text-decoration: none;
+      margin: 0 10px;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>AlphaRaid Web3</h1>
+  <p>We help Web3 & crypto projects scale with real engagement, strategic raids, and powerful community growth — no bots, no fake hype.</p>
+  <a class="btn" href="#contact">Book a Call</a>
+</header>
+
+<section>
+  <h2>Our Services</h2>
+  <div class="grid">
+    <div class="card">
+      <h3>Shilling Campaigns</h3>
+      <p>Organic-looking shilling on Twitter, Telegram & Discord to create authentic hype and visibility.</p>
+    </div>
+    <div class="card">
+      <h3>Raiding & Engagement</h3>
+      <p>Coordinated raid waves that boost impressions, engagement, and algorithm reach.</p>
+    </div>
+    <div class="card">
+      <h3>Social Media Management</h3>
+      <p>Daily content, engagement strategy, and community moderation for Web3 brands.</p>
+    </div>
+    <div class="card">
+      <h3>Community Growth</h3>
+      <p>From zero to active community — we build, manage, and scale your Web3 audience.</p>
+    </div>
+  </div>
+</section>
+
+<section>
+  <h2>Why AlphaRaid?</h2>
+  <div class="grid">
+    <div class="card">
+      <h3>Web3-Native Team</h3>
+      <p>We understand crypto culture, narratives, and community psychology.</p>
+    </div>
+    <div class="card">
+      <h3>Real Engagement</h3>
+      <p>No fake followers, no harmful bots — only real, trackable growth.</p>
+    </div>
+    <div class="card">
+      <h3>Transparent Reporting</h3>
+      <p>Clear KPIs and weekly reports so you always know what’s happening.</p>
+    </div>
+  </div>
+</section>
+
+<section>
+  <h2>Our Process</h2>
+  <div class="process">
+    <div class="step">Audit</div>
+    <div class="step">Strategy</div>
+    <div class="step">Execution</div>
+    <div class="step">Report</div>
+  </div>
+</section>
+
+<section id="contact">
+  <h2>Let’s Grow Your Project</h2>
+  <p style="text-align:center; max-width:600px; margin:auto;">
+    Ready to scale your Web3 project with AlphaRaid Web3? Reach out and let’s talk growth.
+  </p>
+  <div style="text-align:center;">
+    <a class="btn" href="https://t.me/yourtelegram">Contact on Telegram</a>
+  </div>
+</section>
+
+<footer>
+  <p>© 2026 AlphaRaid Web3. All rights reserved.</p>
+  <p>
+    <a href="#">Twitter</a> |
+    <a href="#">Telegram</a> |
+    <a href="mailto:contact@alpharaidweb3.com">Email</a>
+  </p>
+</footer>
+
+</body>
+</html>
